@@ -14,7 +14,7 @@ The dataset used in this project is originally prepared by Prajna Bhandary and i
 To run this project:
 1. Clone this repository to your local machine.
 ```bash
-git clone https://github.com/Gayathri-Selvaganapathi/face_mask_detection.git
+git clone https://github.com/muralikrishna-4219/face_mask_detection.git
 ```
 2. Create the environment
 ```bash
